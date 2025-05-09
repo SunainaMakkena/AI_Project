@@ -61,7 +61,7 @@ Avg.LenOfSnake = 18, Max.LenOfSnake = 44
 
 See Video on YouTube https://youtu.be/HclSp0XOKUY
 
-[Download the user manual](C:\Spring 2025\DSCI-6612-01_Intro to AI.pdf)
+
 
 
 
