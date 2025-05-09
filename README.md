@@ -61,13 +61,7 @@ Avg.LenOfSnake = 18, Max.LenOfSnake = 44
 
 See Video on YouTube https://youtu.be/HclSp0XOKUY
 
-## Our Journey In Phases
 
-## Phase 1
-
-https://github.com/SunainaMakkena/AI_Project/blob/main/Code%20crusaders_AI%20Term%20Project.pptx
-
-## Phase 2
 
 
 
